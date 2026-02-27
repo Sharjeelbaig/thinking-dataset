@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-02-27T17:46:25.710582+00:00",
+  "seed": 42,
+  "total_rows": 1000,
+  "category_counts": {
+    "basic_arithmetic": 200,
+    "advanced_math": 200,
+    "general_chat": 400,
+    "coding_tasks": 200
+  },
+  "schema": [
+    "id",
+    "split",
+    "category",
+    "subcategory",
+    "difficulty",
+    "prompt",
+    "thinking_cot",
+    "answer",
+    "source"
+  ]
+}
