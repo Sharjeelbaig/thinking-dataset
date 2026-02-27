@@ -1,12 +1,20 @@
 {
-  "generated_at_utc": "2026-02-27T17:46:25.710582+00:00",
+  "name": "NeuroThinker CoT v2",
+  "version": "2.0.0",
+  "generated": "2026-02-27T21:53:45.786691+00:00",
   "seed": 42,
-  "total_rows": 1000,
-  "category_counts": {
-    "basic_arithmetic": 200,
-    "advanced_math": 200,
-    "general_chat": 400,
-    "coding_tasks": 200
+  "total_rows": 2000,
+  "categories": {
+    "multi_step_math": 250,
+    "coding_reasoning": 200,
+    "problem_decomposition": 200,
+    "logical_reasoning": 300,
+    "basic_arithmetic": 150,
+    "common_sense": 200,
+    "general_knowledge": 200,
+    "conversational": 150,
+    "pattern_recognition": 150,
+    "causal_reasoning": 200
   },
   "schema": [
     "id",
